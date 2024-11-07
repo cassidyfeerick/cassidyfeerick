@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Cassidy 👋 
 
-<!--
-**cassidyfeerick/cassidyfeerick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a GTM analyst at Vanta, previously Klaviyo. You can find me on [GitHub](https://github.com/cassidyfeerick), [LinkedIn](https://linkedin.com/in/cassidyfeerick) or good old fashioned email: cassidyfeerick@gmail.com.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning:
+trying to learn these languages:
+* python
+* javascript
+* swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+to be better at: 
+* all things data!
+* programming!
+
+### Projects:
+None yet to share!
+
+
+
+
+
